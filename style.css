@@ -20,6 +20,11 @@ background-color: var(--cor-de-fundo);
 font-family: var(--roboto);
 }
 
+img{
+    width: 50%;
+    height: 50%;
+}
+
 .titulo-principal{
 font-family: var(--roboto-mono);
 font-size: 32px;
